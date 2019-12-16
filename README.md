@@ -1,3 +1,3 @@
 ## Relation Graph
 
-- data used is hidden as it is confidential.
+- The data used here is hidden as it is confidential.
