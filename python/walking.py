@@ -97,7 +97,7 @@ def findAllCombinations(iteratable, length):
 
 
 def calculateNumDen(firstSubject, secondSubject):
-	ddata = {}
+	ddata = []
 	length = len(firstSubject) if len(firstSubject) < len(secondSubject) else len(secondSubject)
 
 	for j in range(length):
